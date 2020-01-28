@@ -22,8 +22,6 @@ homogéneïser à 4hz
 * **Respiration signal**
 * 700hz
 
-#### TEMP
-
 #### EDA
 
 * should be ignored
