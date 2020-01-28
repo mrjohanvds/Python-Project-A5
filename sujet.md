@@ -19,11 +19,12 @@ Analyse d’un dataset, tel qu’affecté à chacun selon le tableau ci-dessous 
 ## B/ Un dataset sera à analyser par personne, parmi les trois suivants
 
 Régression => Prédire le temps restant avant complétion :
-https://archive.ics.uci.edu/ml/datasets/Incident+management+process+enriched+event+log
+<https://archive.ics.uci.edu/ml/datasets/Incident+management+process+enriched+event+log>
 
 Classification => Prédire l'activité de la personne :
-* https://archive.ics.uci.edu/ml/datasets/PPG-DaLiA
-* https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions
+
+* <https://archive.ics.uci.edu/ml/datasets/PPG-DaLiA>
+* <https://archive.ics.uci.edu/ml/datasets/Smartphone-Based+Recognition+of+Human+Activities+and+Postural+Transitions>
 
 ## C/ Un mail + un github + le remplissage d’une feuille google drive sont attendus
 
