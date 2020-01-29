@@ -54,3 +54,14 @@ homogéneïser à 4hz
 #### TEMP
 
 * 4hz
+
+### Activities
+
+* 1 : Sitting
+* 2 : Climbing stairs
+* 3 : Playing table soccer
+* 4 : Cycling
+* 5 : Driving
+* 6 : Lunch break
+* 7 : Walking
+* 8 : Working
